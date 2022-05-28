@@ -1,0 +1,4 @@
+https://www.w3schools.com/python/default.asp
+
+https://www.w3schools.com/python/python_lists.asp
+https://www.w3schools.com/python/python_dictionaries_methods.asp
